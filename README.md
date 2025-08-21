@@ -28,11 +28,7 @@ Together, the analysis and dashboard provide a compelling, data-driven narrative
 (https://public.tableau.com/views/HealthcarePatientAnalyticsDashboard/HealthcarePatientAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##  Project Structure
-Healthcare Project/
-├── Dataset.csv       # Raw patient data
-├── eda.ipynb         # Exploratory Data Analysis in Python
-├── Model.ipynb       # ML cost estimation or outcome modeling
-└── README.md         # Project overview
+<pre> ### 📁 Project Structure ``` Healthcare Project/ ├── Dataset.csv # Raw patient data ├── eda.ipynb # Exploratory Data Analysis in Python ├── Model.ipynb # ML cost estimation or outcome modeling └── README.md # Project overview ``` </pre>
 
 
 
