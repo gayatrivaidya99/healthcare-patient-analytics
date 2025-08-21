@@ -1,6 +1,28 @@
 #  Healthcare Patient Analytics Dashboard
 
-This project analyzes patient data to explore cost optimization and outcomes using Python and Tableau.
+This project presents a comprehensive analysis of healthcare patient data to uncover patterns in hospital stays, costs, readmission rates, and outcomes. Using Python for Exploratory Data Analysis (EDA) and Tableau for interactive visualization, it aims to support healthcare administrators in identifying areas for cost optimization and improving patient care quality.
+
+The dataset includes 50,000 anonymized patient records with features like:
+Age, Gender, Department, Diagnosis
+Length of Stay, Total Cost, Severity
+Readmission Status, Outcomes, Comorbidities
+
+### The project walks through:
+
+## Step 1: Data Exploration in Python
+Summary statistics, null checks, and value distributions
+Histograms, scatterplots, and outcome comparisons
+
+## Step 2: Predictive Modeling (Optional)
+Simple classification model to predict readmission likelihood
+
+## Step 3: Tableau Dashboard Creation
+KPI cards (e.g., Total Patients, Avg Cost)
+Department-wise insights
+Cost vs Length of Stay scatterplot
+Outcome and readmission drilldowns
+
+Together, the analysis and dashboard provide a compelling, data-driven narrative around hospital performance and patient metrics.
 
 ##  Dashboard Link
 (https://public.tableau.com/views/HealthcarePatientAnalyticsDashboard/HealthcarePatientAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
