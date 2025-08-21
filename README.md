@@ -30,9 +30,13 @@ Together, the analysis and dashboard provide a compelling, data-driven narrative
 ##  Project Structure
  ### 📁 Project Structure
  Healthcare Project/ 
+ 
  ├── Dataset.csv # Raw patient data 
+ 
  ├── eda.ipynb # Exploratory Data Analysis in Python
+ 
  ├── Model.ipynb # ML cost estimation or outcome modeling 
+ 
  └── README.md # Project overview
 
 
