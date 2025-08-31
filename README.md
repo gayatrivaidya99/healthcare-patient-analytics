@@ -13,7 +13,7 @@ Readmission Status, Outcomes, Comorbidities
 Summary statistics, null checks, and value distributions
 Histograms, scatterplots, and outcome comparisons
 
-## Step 2: Predictive Modeling (Optional)
+## Step 2: Predictive Modeling 
 Simple classification model to predict readmission likelihood
 
 ## Step 3: Tableau Dashboard Creation
@@ -28,7 +28,7 @@ Together, the analysis and dashboard provide a compelling, data-driven narrative
 (https://public.tableau.com/views/HealthcarePatientAnalyticsDashboard/HealthcarePatientAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ##  Project Structure
- ### 📁 Project Structure
+ ###  Project Structure
  Healthcare Project/ 
  
  ├── Dataset.csv # Raw patient data 
